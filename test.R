@@ -97,4 +97,4 @@ system.time(fit1<-glmnet(sx,y))
 system.time(fit2n<-glmnet(x,y))
 # }
 
-print("hello")
+
